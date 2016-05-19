@@ -1,0 +1,14 @@
+% ARFF training file - CLPsych Task 2016
+
+@RELATION features
+@ATTRIBUTE docID0docid	REAL 		%docid
+@ATTRIBUTE 2kudos	REAL 		%kudos
+@ATTRIBUTE 3views	REAL 		%views
+@ATTRIBUTE class 	{green, amber, red, crisis}
+@DATA
+
+10000020,0,90,red
+10000050,0,80,red
+10000400,0,60,red
+10001000,0,50,red
+10000010,0,100,red

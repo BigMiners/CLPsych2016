@@ -1,0 +1,7 @@
+Download:
+http://nlp.stanford.edu/software/stanford-postagger-2015-12-09.zip
+
+Extract:
+/stanford-postagger-2015-12-09/models/english-left3words-distsim.tagger
+/stanford-postagger-2015-12-09/models/english-left3words-distsim.tagger.props
+

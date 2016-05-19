@@ -1,0 +1,54 @@
+😁	happy
+😂	happy
+😃	happy
+😄	happy
+😅	happy
+😆	happy
+😉	happy
+😊	happy
+😋	happy
+😌	happy
+😏	happy
+# Funny
+😜	funny
+😝	funny
+# Love
+😍	in love
+😘	kiss
+😚	kiss
+# ??
+😓	cold sweat
+😔	unamused
+😖	confounded
+😪	sleepy
+😫	tired
+# Sad
+😞	sad
+😩	sad
+😭	sad
+😥	sad
+😠	angry
+😡	angry
+😢	sad
+😣	?
+#
+😨	afraid
+😰	afraid
+😱	afraid
+😲	astonished
+😳	flushed
+😵	dizzy
+😷	sick
+# WTF
+😸	cat
+😹	cat
+😺	cat
+😻	cat
+😼	cat
+😽	cat
+😾	cat
+😿	cat
+🙀	cat
+#
+# Other (not in Emoji Unicode block)
+❤	love

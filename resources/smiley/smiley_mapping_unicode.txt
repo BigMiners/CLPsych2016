@@ -1,0 +1,48 @@
+😁	happy
+😂	happy
+😃	happy
+😄	happy
+😅	happy
+😆	happy
+😉	happy
+😊	happy
+😋 	happy
+😌 	happy
+😍	in love
+😏	happy
+😓	cold sweat
+😔	unamused
+😖	confounded
+😘	kiss
+😚	kiss
+😜	funny
+😝	funny
+😞	sad
+😠	angry
+😡	angry
+😢	sad
+😣	sad
+#
+😥	sad
+😨	afraid
+😩	sad
+😪	sleepy
+😫	tired
+😭	sad
+😰	afraid
+😱	afraid
+😲	astonished
+😳	flushed
+😵	dizzy
+😷	sick
+😸	cat
+😹	cat
+😺	cat
+😻	cat
+😼	cat
+😽	cat
+😾	cat
+😿	cat
+🙀	cat
+#
+❤	love

@@ -1,0 +1,62 @@
+:cathappy:	happy
+:cattongue:	happy
+:catvery-happy:	happy
+:catlol:	happy
+:manhappy:	happy
+:mantongue:	happy
+:manvery-happy:	happy
+:manlol:	happy
+:robothappy:	happy
+:robottongue:	happy
+:robotvery-happy:	happy
+:robotlol:	happy
+:smileyhappy:	happy
+:smileytongue:	happy
+:smileyvery-happy:	happy
+:smileylol:	happy
+:womanhappy:	happy
+:womantongue:	happy
+:womanvery-happy:	happy
+:womanlol:	happy
+#
+:catmad:	sad
+:catsad:	sad
+:manmad:	sad
+:mansad:	sad
+:robotmad:	sad
+:robotsad:	sad
+:smileymad:	sad
+:smileysad:	sad
+:womanmad:	sad
+:womansad:	sad
+#
+:catindifferent:	indifferent
+:robotindifferent:	indifferent
+:manindifferent:	indifferent
+:smileyindifferent:	indifferent
+:womanindifferent:	indifferent
+#
+:catsurprised:	surprise
+:mansurprised:	surprise
+:robotsurprised:	surprise
+#
+:catwink:	wink
+:manwink:	wink
+:robotwink:	wink
+#
+:catfrustrated:	frustrated
+:manfrustrated:	frustrated
+:robotfrustrated:	frustrated
+#
+:robotembarrassed:	embarrassed
+:catembarrassed:	embarrassed
+:manembarrassed:	embarrassed
+:smileysurprised:	surprise
+:smileywink:	wink
+:smileyfrustrated:	frustrated
+:smileyembarrassed:	embarrassed
+:heart:	love
+:womansurprised:	surprise
+:womanwink:	wink
+:womanfrustrated:	frustrated
+:womanembarrassed:	embarrassed

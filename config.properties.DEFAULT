@@ -1,0 +1,71 @@
+###############
+# CLPsych2016 shared task
+###############
+################
+# Folder paths #
+################
+CORPUS_DIRECTORY=/path/to/data
+WORK_DIRECTORY=/path/to/source/root
+RESOURCES_DIR=/resources
+FEATURE_DIR=/features
+MODEL_DIR=/model
+TAGGER_DIR=/tagger
+RESULTS_DIR=/results
+SENTIMENT_DIC_DIR=/sentiment_dictionary
+VOCABULARY_DIC_DIR=/vocabulary
+SMILEY_DIC_DIR=/smiley
+################
+# Resources    #
+################
+TAGGER_FILE=english-left3words-distsim.tagger
+SENTIMENT_DIC=feelingwords_mapping.txt,senticnet_mapping.txt
+VOCABULARY_DIC=features.unigrams.crisis,features.unigrams.red
+SMILEYS_DIC=smiley_mapping_reachout.txt,smiley_mapping_unicode.txt,smiley_mapping_wikipedia.txt
+STOP_FILE=stopwords
+################
+# File names   #
+################
+NGRAM_FILE=features.ngrams.size
+SENTIMENT_FILE=features.sentiments
+VOCABULARY_FILE=features.vocabulary
+POS_FILE=features.POStags
+MODEL_FILE=CLPsych.arff.SAMPLE
+TEST_FILE=CLPsych.test.arff.SAMPLE
+################
+# Extractors   #
+################
+# resources
+USE_STOPFILTER=false
+USE_ZIPFFILTER=false
+USE_KUDOS=true
+USE_VIEWS=true
+USE_CLASS_COUNT=false
+# Sentiment
+USE_SENTIMENT=false
+# Vocabulary by label
+USE_VOCABULARY=false
+# Ngrams
+NGRAM_SIZE=1
+USE_NGRAM=false
+# POS
+USE_POS=false
+################
+# Task details #
+################
+# CFS feature selection
+CFS=false
+# cross-validation
+CV=true
+# models and classification
+TASK=training
+#TASK=test
+################
+# History recovery
+################
+USE_USER_HIST=false
+# A post is combined with the N_PREVIOUS posts
+N_PREVIOUS=1
+#weight to tune feat occurence in history posts. No weight (default) = 1
+USER_HIST_WEIGHT=1
+OUTPUT_POSTS_WITH_CONTEXT=path/to/postsWithContext
+NON_ANNOTATED_DIRECTORY=/path/to/nonlabeleddata
